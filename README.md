@@ -44,5 +44,20 @@ Implementation Details
 Project Structure
 <img width="940" height="632" alt="image" src="https://github.com/user-attachments/assets/e2ccaa83-9e23-4908-8026-81b08d431fb7" />
 
+Building and Running the Project
+<img width="940" height="524" alt="image" src="https://github.com/user-attachments/assets/0590d5a5-026d-45b0-8453-2cf01dd21dbf" />
+
+Keyboard Controls
+<img width="415" height="348" alt="image" src="https://github.com/user-attachments/assets/5834e89a-a62a-4ab3-af13-5e180e063d83" />
+
+Sample Output
+
+<img width="756" height="344" alt="image" src="https://github.com/user-attachments/assets/7f9ff82c-e7b1-40ae-a96e-d21348bfe690" />
+<img width="748" height="477" alt="image" src="https://github.com/user-attachments/assets/d7bfc837-fab4-493d-8cb0-e9992f1606fd" />
+<img width="746" height="502" alt="image" src="https://github.com/user-attachments/assets/1bc787fc-55a9-442b-8840-78c09921fa4c" />
+
+
+
+
 
 
